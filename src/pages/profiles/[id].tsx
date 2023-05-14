@@ -4,7 +4,7 @@ type Props = Record<string, string>
 
 const Profile = (props: Props) => {
   return (
-    <div>Profile</div>
+    <div>User profile page</div>
   )
 }
 
